@@ -18,3 +18,5 @@ $('.box').drogover('tab1',function(event){});
 //定义拖拽释放的时候区域触发的事件处理
 $('.box').drog('tab1',function(event){});
 ```
+
+[演示](http://xiajiecheng.com/assets/demo/jquery.html5drag/demo/demo.html)
